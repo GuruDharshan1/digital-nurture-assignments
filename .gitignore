@@ -1,1 +1,7 @@
-".metadata/" 
+.metadata/
+bin/
+*.class
+.classpath
+.project
+.settings/
+.idea/
