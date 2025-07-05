@@ -1,0 +1,11 @@
+INSERT INTO country (code, name) VALUES ('BV', 'Bouvet Island');
+INSERT INTO country (code, name) VALUES ('DJ', 'Djibouti');
+INSERT INTO country (code, name) VALUES ('GP', 'Guadeloupe');
+INSERT INTO country (code, name) VALUES ('GS', 'South Georgia and the South Sandwich Islands');
+INSERT INTO country (code, name) VALUES ('LU', 'Luxembourg');
+INSERT INTO country (code, name) VALUES ('SS', 'South Sudan');
+INSERT INTO country (code, name) VALUES ('TF', 'French Southern Territories');
+INSERT INTO country (code, name) VALUES ('UM', 'United States Minor Outlying Islands');
+INSERT INTO country (code, name) VALUES ('ZA', 'South Africa');
+INSERT INTO country (code, name) VALUES ('ZM', 'Zambia');
+INSERT INTO country (code, name) VALUES ('ZW', 'Zimbabwe');
