@@ -1,0 +1,10 @@
+.score-container {
+  background-color: #f0f8ff;
+  border: 2px solid #ccc;
+  padding: 20px;
+  margin: 20px auto;
+  width: 50%;
+  text-align: left;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+}
