@@ -1,8 +1,6 @@
 #!/bin/bash
-# Week 8 - Git Hands-on Exercise 4 Script
-# This script demonstrates conflict resolution during a Git merge.
 
-# Ensure master branch is clean
+
 git checkout master
 git status
 
@@ -36,9 +34,7 @@ git diff master GitWork
 # Merge GitWork into master (will cause conflict)
 git merge GitWork
 
-# Conflict resolution will be done manually using a 3-way merge tool (e.g., P4Merge)
 
-# After resolving conflict manually, mark file as resolved
 git add hello.xml
 
 # Commit the merge resolution
