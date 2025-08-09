@@ -12,7 +12,7 @@ echo "Log content" > log/sample.log
 echo "*.log" > .gitignore
 echo "log/" >> .gitignore
 
-# Add and commit .gitignore (log files/folders will be ignored)
+# Add and commit .gitignore
 git add .gitignore
 git commit -m "Add .gitignore to ignore .log files and log folder"
 
