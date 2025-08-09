@@ -12,7 +12,6 @@ git status
 # Merging
 git checkout master
 git diff GitNewBranch
-# Note: Use P4Merge tool manually for visual diff
 
 git merge GitNewBranch
 git log --oneline --graph --decorate
